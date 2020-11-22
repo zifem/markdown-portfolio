@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- fast food
+  - hot dog
+  - hamburger
+- pizza
